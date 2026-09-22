@@ -1,0 +1,36 @@
+catalog: 525 valid, dropped 0; rate limit {'x-ratelimit-limit-tokens': None, 'x-ratelimit-limit-requests': None}
+model=gpt-5-nano  E2: 40 sequences, 1151 calls, 17,385,999 tokens  E3: 372 calls, 4,936,742 tokens
+worst case (no cache hits at all): $1.183   hard cap: $1.5
+spent $0.0300 over 1226 calls
+Traceback (most recent call last):
+  File "/Users/anoshorpaul/Desktop/penny-wise-cache-foolish/live_validate.py", line 292, in <module>
+    selfcheck() if a.selfcheck else main(a.live)
+                                    ~~~~^^^^^^^^
+  File "/Users/anoshorpaul/Desktop/penny-wise-cache-foolish/live_validate.py", line 243, in main
+    out["E3"] = run_e3(client, spend, items, questions())
+                ~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/anoshorpaul/Desktop/penny-wise-cache-foolish/live_validate.py", line 188, in run_e3
+    r, u = call(client, spend, f"E3 N={it['n']}", tools=it["tools"], tool_choice="required",
+           ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                max_output_tokens=400, reasoning={"effort": "minimal"},
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                input=[{"role": "user", "content": questions[it["task"]]}])
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/anoshorpaul/Desktop/penny-wise-cache-foolish/live_validate.py", line 115, in call
+    r = client.responses.create(model=MODEL, store=False, **kw)
+  File "/Users/anoshorpaul/Desktop/penny-wise-cache-foolish/.venv/lib/python3.14/site-packages/openai/resources/responses/responses.py", line 1041, in create
+    return self._post(
+           ~~~~~~~~~~^
+        "/responses",
+        ^^^^^^^^^^^^^
+    ...<47 lines>...
+        stream_cls=Stream[ResponseStreamEvent],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/anoshorpaul/Desktop/penny-wise-cache-foolish/.venv/lib/python3.14/site-packages/openai/_base_client.py", line 1378, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/anoshorpaul/Desktop/penny-wise-cache-foolish/.venv/lib/python3.14/site-packages/openai/_base_client.py", line 1151, in request
+    raise self._make_status_error_from_response(err.response) from None
+openai.BadRequestError: Error code: 400 - {'error': {'message': 'Invalid prompt: your prompt was flagged as potentially violating our usage policy. Please try again with a different prompt: https://platform.openai.com/docs/guides/reasoning#advice-on-prompting', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_prompt'}}

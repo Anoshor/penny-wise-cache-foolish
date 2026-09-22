@@ -1,0 +1,106 @@
+catalog: 525 valid, dropped 0; rate limit {'x-ratelimit-limit-tokens': None, 'x-ratelimit-limit-requests': None}
+model=gpt-5-nano  E2: 40 sequences, 1151 calls, 17,385,999 tokens  E3: 372 calls, 4,936,742 tokens
+worst case (no cache hits at all): $1.205   hard cap: $1.5
+E3 resume: 93 done, 279 left
+spent $0.1019 over 209 calls
+Traceback (most recent call last):
+  File "/Users/anoshorpaul/Desktop/penny-wise-cache-foolish/.venv/lib/python3.14/site-packages/httpx2/_transports/default.py", line 98, in map_httpcore_exceptions
+    yield
+  File "/Users/anoshorpaul/Desktop/penny-wise-cache-foolish/.venv/lib/python3.14/site-packages/httpx2/_transports/default.py", line 245, in handle_request
+    resp = self._pool.handle_request(req)
+  File "/Users/anoshorpaul/Desktop/penny-wise-cache-foolish/.venv/lib/python3.14/site-packages/httpcore2/_sync/connection_pool.py", line 242, in handle_request
+    raise exc from None
+  File "/Users/anoshorpaul/Desktop/penny-wise-cache-foolish/.venv/lib/python3.14/site-packages/httpcore2/_sync/connection_pool.py", line 224, in handle_request
+    response = connection.handle_request(pool_request.request)
+  File "/Users/anoshorpaul/Desktop/penny-wise-cache-foolish/.venv/lib/python3.14/site-packages/httpcore2/_sync/connection.py", line 94, in handle_request
+    raise exc
+  File "/Users/anoshorpaul/Desktop/penny-wise-cache-foolish/.venv/lib/python3.14/site-packages/httpcore2/_sync/connection.py", line 74, in handle_request
+    stream = self._connect(request)
+  File "/Users/anoshorpaul/Desktop/penny-wise-cache-foolish/.venv/lib/python3.14/site-packages/httpcore2/_sync/connection.py", line 140, in _connect
+    stream = stream.start_tls(**kwargs)
+  File "/Users/anoshorpaul/Desktop/penny-wise-cache-foolish/.venv/lib/python3.14/site-packages/httpcore2/_backends/sync.py", line 154, in start_tls
+    with map_exceptions(exc_map):
+         ~~~~~~~~~~~~~~^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.5/Frameworks/Python.framework/Versions/3.14/lib/python3.14/contextlib.py", line 162, in __exit__
+    self.gen.throw(value)
+    ~~~~~~~~~~~~~~^^^^^^^
+  File "/Users/anoshorpaul/Desktop/penny-wise-cache-foolish/.venv/lib/python3.14/site-packages/httpcore2/_exceptions.py", line 17, in map_exceptions
+    raise to_exc(exc) from exc
+httpcore2.ConnectTimeout: _ssl.c:1063: The handshake operation timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/anoshorpaul/Desktop/penny-wise-cache-foolish/.venv/lib/python3.14/site-packages/openai/_base_client.py", line 1086, in request
+    response = self._send_request(
+        request,
+        stream=stream or self._should_stream_response_body(request=request),
+        **kwargs,
+    )
+  File "/Users/anoshorpaul/Desktop/penny-wise-cache-foolish/.venv/lib/python3.14/site-packages/openai/_client.py", line 600, in _send_request
+    response = self._send_with_auth_retry(request, stream=stream, **kwargs)
+  File "/Users/anoshorpaul/Desktop/penny-wise-cache-foolish/.venv/lib/python3.14/site-packages/openai/_client.py", line 579, in _send_with_auth_retry
+    response = super()._send_request(request, stream=stream, **kwargs)
+  File "/Users/anoshorpaul/Desktop/penny-wise-cache-foolish/.venv/lib/python3.14/site-packages/openai/_base_client.py", line 1008, in _send_request
+    return self._client.send(request, stream=stream, **kwargs)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/anoshorpaul/Desktop/penny-wise-cache-foolish/.venv/lib/python3.14/site-packages/httpx2/_client.py", line 980, in send
+    response = self._send_handling_auth(
+        request,
+    ...<2 lines>...
+        history=[],
+    )
+  File "/Users/anoshorpaul/Desktop/penny-wise-cache-foolish/.venv/lib/python3.14/site-packages/httpx2/_client.py", line 1008, in _send_handling_auth
+    response = self._send_handling_redirects(
+        request,
+        follow_redirects=follow_redirects,
+        history=history,
+    )
+  File "/Users/anoshorpaul/Desktop/penny-wise-cache-foolish/.venv/lib/python3.14/site-packages/httpx2/_client.py", line 1043, in _send_handling_redirects
+    response = self._send_single_request(request)
+  File "/Users/anoshorpaul/Desktop/penny-wise-cache-foolish/.venv/lib/python3.14/site-packages/httpx2/_client.py", line 1076, in _send_single_request
+    response = transport.handle_request(request)
+  File "/Users/anoshorpaul/Desktop/penny-wise-cache-foolish/.venv/lib/python3.14/site-packages/httpx2/_transports/default.py", line 244, in handle_request
+    with map_httpcore_exceptions():
+         ~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.5/Frameworks/Python.framework/Versions/3.14/lib/python3.14/contextlib.py", line 162, in __exit__
+    self.gen.throw(value)
+    ~~~~~~~~~~~~~~^^^^^^^
+  File "/Users/anoshorpaul/Desktop/penny-wise-cache-foolish/.venv/lib/python3.14/site-packages/httpx2/_transports/default.py", line 115, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx2.ConnectTimeout: _ssl.c:1063: The handshake operation timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/anoshorpaul/Desktop/penny-wise-cache-foolish/live_validate.py", line 318, in <module>
+    selfcheck() if a.selfcheck else main(a.live, only=a.only)
+                                    ~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/anoshorpaul/Desktop/penny-wise-cache-foolish/live_validate.py", line 268, in main
+    out["E3"] = run_e3(client, spend, items, questions())
+                ~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/anoshorpaul/Desktop/penny-wise-cache-foolish/live_validate.py", line 196, in run_e3
+    r, u = call(client, spend, f"E3 N={it['n']}", tools=it["tools"], tool_choice="required",
+           ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                max_output_tokens=400, reasoning={"effort": "minimal"},
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                input=[{"role": "user", "content": questions[it["task"]]}])
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/anoshorpaul/Desktop/penny-wise-cache-foolish/live_validate.py", line 115, in call
+    r = client.responses.create(model=MODEL, store=False, **kw)
+  File "/Users/anoshorpaul/Desktop/penny-wise-cache-foolish/.venv/lib/python3.14/site-packages/openai/resources/responses/responses.py", line 1041, in create
+    return self._post(
+           ~~~~~~~~~~^
+        "/responses",
+        ^^^^^^^^^^^^^
+    ...<47 lines>...
+        stream_cls=Stream[ResponseStreamEvent],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/anoshorpaul/Desktop/penny-wise-cache-foolish/.venv/lib/python3.14/site-packages/openai/_base_client.py", line 1378, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/anoshorpaul/Desktop/penny-wise-cache-foolish/.venv/lib/python3.14/site-packages/openai/_base_client.py", line 1104, in request
+    raise APITimeoutError(request=request) from err
+openai.APITimeoutError: Request timed out.

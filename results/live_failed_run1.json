@@ -1,0 +1,10262 @@
+{
+ "dropped_tools": {},
+ "ratelimit": {
+  "x-ratelimit-limit-tokens": null,
+  "x-ratelimit-limit-requests": null
+ },
+ "E0": "accepted 129 tools",
+ "E2": [
+  {
+   "session": "cf6ea2ca+71a7a42a+ab11def3",
+   "strat": "S1",
+   "billed": {
+    "input": 0,
+    "cached": 0,
+    "output": 0
+   },
+   "pred_raw": 437788,
+   "pred_hit": 0.9188031650022386
+  },
+  {
+   "session": "cf6ea2ca+71a7a42a+ab11def3",
+   "strat": "S2r",
+   "billed": {
+    "input": 0,
+    "cached": 0,
+    "output": 0
+   },
+   "pred_raw": 122013,
+   "pred_hit": 0.7383147697376509
+  },
+  {
+   "session": "cf6ea2ca+71a7a42a+ab11def3",
+   "strat": "S3",
+   "billed": {
+    "input": 0,
+    "cached": 0,
+    "output": 0
+   },
+   "pred_raw": 136386,
+   "pred_hit": 0.8214406170721334
+  },
+  {
+   "session": "cf6ea2ca+71a7a42a+ab11def3",
+   "strat": "S4",
+   "billed": {
+    "input": 0,
+    "cached": 0,
+    "output": 0
+   },
+   "pred_raw": 296561,
+   "pred_hit": 0.9221104595681833
+  },
+  {
+   "session": "71a7a42a+ab11def3+2293b5eb",
+   "strat": "S1",
+   "billed": {
+    "input": 0,
+    "cached": 0,
+    "output": 0
+   },
+   "pred_raw": 423136,
+   "pred_hit": 0.9024450767601906
+  },
+  {
+   "session": "71a7a42a+ab11def3+2293b5eb",
+   "strat": "S2r",
+   "billed": {
+    "input": 0,
+    "cached": 0,
+    "output": 0
+   },
+   "pred_raw": 104114,
+   "pred_hit": 0.6255066561653572
+  },
+  {
+   "session": "71a7a42a+ab11def3+2293b5eb",
+   "strat": "S3",
+   "billed": {
+    "input": 0,
+    "cached": 0,
+    "output": 0
+   },
+   "pred_raw": 115807,
+   "pred_hit": 0.7835018608546979
+  },
+  {
+   "session": "71a7a42a+ab11def3+2293b5eb",
+   "strat": "S4",
+   "billed": {
+    "input": 0,
+    "cached": 0,
+    "output": 0
+   },
+   "pred_raw": 248147,
+   "pred_hit": 0.900381628631416
+  },
+  {
+   "session": "ab11def3+2293b5eb+08644b1a",
+   "strat": "S1",
+   "billed": {
+    "input": 0,
+    "cached": 0,
+    "output": 0
+   },
+   "pred_raw": 482108,
+   "pred_hit": 0.9301629510400159
+  },
+  {
+   "session": "ab11def3+2293b5eb+08644b1a",
+   "strat": "S2r",
+   "billed": {
+    "input": 0,
+    "cached": 0,
+    "output": 0
+   },
+   "pred_raw": 222244,
+   "pred_hit": 0.8383353431363726
+  },
+  {
+   "session": "ab11def3+2293b5eb+08644b1a",
+   "strat": "S3",
+   "billed": {
+    "input": 0,
+    "cached": 0,
+    "output": 0
+   },
+   "pred_raw": 219176,
+   "pred_hit": 0.8688131912253166
+  },
+  {
+   "session": "ab11def3+2293b5eb+08644b1a",
+   "strat": "S4",
+   "billed": {
+    "input": 0,
+    "cached": 0,
+    "output": 0
+   },
+   "pred_raw": 406452,
+   "pred_hit": 0.9405587867694094
+  },
+  {
+   "session": "2293b5eb+08644b1a+ec6f4fe5",
+   "strat": "S1",
+   "billed": {
+    "input": 0,
+    "cached": 0,
+    "output": 0
+   },
+   "pred_raw": 457199,
+   "pred_hit": 0.9269683442002279
+  },
+  {
+   "session": "2293b5eb+08644b1a+ec6f4fe5",
+   "strat": "S2r",
+   "billed": {
+    "input": 0,
+    "cached": 0,
+    "output": 0
+   },
+   "pred_raw": 163231,
+   "pred_hit": 0.8028438225582151
+  },
+  {
+   "session": "2293b5eb+08644b1a+ec6f4fe5",
+   "strat": "S3",
+   "billed": {
+    "input": 0,
+    "cached": 0,
+    "output": 0
+   },
+   "pred_raw": 160421,
+   "pred_hit": 0.8384438446338073
+  },
+  {
+   "session": "2293b5eb+08644b1a+ec6f4fe5",
+   "strat": "S4",
+   "billed": {
+    "input": 0,
+    "cached": 0,
+    "output": 0
+   },
+   "pred_raw": 280445,
+   "pred_hit": 0.9326891190786072
+  },
+  {
+   "session": "08644b1a+ec6f4fe5+fbe982c3",
+   "strat": "S1",
+   "billed": {
+    "input": 0,
+    "cached": 0,
+    "output": 0
+   },
+   "pred_raw": 767865,
+   "pred_hit": 0.9565027706693234
+  },
+  {
+   "session": "08644b1a+ec6f4fe5+fbe982c3",
+   "strat": "S2r",
+   "billed": {
+    "input": 0,
+    "cached": 0,
+    "output": 0
+   },
+   "pred_raw": 226887,
+   "pred_hit": 0.8723417383984098
+  },
+  {
+   "session": "08644b1a+ec6f4fe5+fbe982c3",
+   "strat": "S3",
+   "billed": {
+    "input": 0,
+    "cached": 0,
+    "output": 0
+   },
+   "pred_raw": 229702,
+   "pred_hit": 0.8802404854986026
+  },
+  {
+   "session": "08644b1a+ec6f4fe5+fbe982c3",
+   "strat": "S4",
+   "billed": {
+    "input": 0,
+    "cached": 0,
+    "output": 0
+   },
+   "pred_raw": 406816,
+   "pred_hit": 0.9543184142216629
+  },
+  {
+   "session": "ec6f4fe5+fbe982c3+99d7541a",
+   "strat": "S1",
+   "billed": {
+    "input": 0,
+    "cached": 0,
+    "output": 0
+   },
+   "pred_raw": 554956,
+   "pred_hit": 0.9503005643690671
+  },
+  {
+   "session": "ec6f4fe5+fbe982c3+99d7541a",
+   "strat": "S2r",
+   "billed": {
+    "input": 0,
+    "cached": 0,
+    "output": 0
+   },
+   "pred_raw": 127283,
+   "pred_hit": 0.8544896019107029
+  },
+  {
+   "session": "ec6f4fe5+fbe982c3+99d7541a",
+   "strat": "S3",
+   "billed": {
+    "input": 0,
+    "cached": 0,
+    "output": 0
+   },
+   "pred_raw": 153294,
+   "pred_hit": 0.8714170156692369
+  },
+  {
+   "session": "ec6f4fe5+fbe982c3+99d7541a",
+   "strat": "S4",
+   "billed": {
+    "input": 0,
+    "cached": 0,
+    "output": 0
+   },
+   "pred_raw": 214362,
+   "pred_hit": 0.9398727386383781
+  },
+  {
+   "session": "fbe982c3+99d7541a+0e3287cb",
+   "strat": "S1",
+   "billed": {
+    "input": 0,
+    "cached": 0,
+    "output": 0
+   },
+   "pred_raw": 1382600,
+   "pred_hit": 0.9701837118472443
+  },
+  {
+   "session": "fbe982c3+99d7541a+0e3287cb",
+   "strat": "S2r",
+   "billed": {
+    "input": 0,
+    "cached": 0,
+    "output": 0
+   },
+   "pred_raw": 525091,
+   "pred_hit": 0.932908772003329
+  },
+  {
+   "session": "fbe982c3+99d7541a+0e3287cb",
+   "strat": "S3",
+   "billed": {
+    "input": 0,
+    "cached": 0,
+    "output": 0
+   },
+   "pred_raw": 492187,
+   "pred_hit": 0.8841842632982992
+  },
+  {
+   "session": "fbe982c3+99d7541a+0e3287cb",
+   "strat": "S4",
+   "billed": {
+    "input": 0,
+    "cached": 0,
+    "output": 0
+   },
+   "pred_raw": 870780,
+   "pred_hit": 0.9638266841222811
+  },
+  {
+   "session": "99d7541a+0e3287cb+2e190c2a",
+   "strat": "S1",
+   "billed": {
+    "input": 0,
+    "cached": 0,
+    "output": 0
+   },
+   "pred_raw": 1097435,
+   "pred_hit": 0.9670641085804627
+  },
+  {
+   "session": "99d7541a+0e3287cb+2e190c2a",
+   "strat": "S2r",
+   "billed": {
+    "input": 0,
+    "cached": 0,
+    "output": 0
+   },
+   "pred_raw": 506113,
+   "pred_hit": 0.9178602406972356
+  },
+  {
+   "session": "99d7541a+0e3287cb+2e190c2a",
+   "strat": "S3",
+   "billed": {
+    "input": 0,
+    "cached": 0,
+    "output": 0
+   },
+   "pred_raw": 449755,
+   "pred_hit": 0.8724839079054152
+  },
+  {
+   "session": "99d7541a+0e3287cb+2e190c2a",
+   "strat": "S4",
+   "billed": {
+    "input": 0,
+    "cached": 0,
+    "output": 0
+   },
+   "pred_raw": 1029625,
+   "pred_hit": 0.9669850673789001
+  },
+  {
+   "session": "0e3287cb+2e190c2a+086e2393",
+   "strat": "S1",
+   "billed": {
+    "input": 0,
+    "cached": 0,
+    "output": 0
+   },
+   "pred_raw": 1359724,
+   "pred_hit": 0.9694246773609938
+  },
+  {
+   "session": "0e3287cb+2e190c2a+086e2393",
+   "strat": "S2r",
+   "billed": {
+    "input": 0,
+    "cached": 0,
+    "output": 0
+   },
+   "pred_raw": 576964,
+   "pred_hit": 0.9044862417759167
+  },
+  {
+   "session": "0e3287cb+2e190c2a+086e2393",
+   "strat": "S3",
+   "billed": {
+    "input": 0,
+    "cached": 0,
+    "output": 0
+   },
+   "pred_raw": 522210,
+   "pred_hit": 0.8881158920740698
+  },
+  {
+   "session": "0e3287cb+2e190c2a+086e2393",
+   "strat": "S4",
+   "billed": {
+    "input": 0,
+    "cached": 0,
+    "output": 0
+   },
+   "pred_raw": 1119671,
+   "pred_hit": 0.9685943460177141
+  },
+  {
+   "session": "2e190c2a+086e2393+e8f13600",
+   "strat": "S1",
+   "billed": {
+    "input": 0,
+    "cached": 0,
+    "output": 0
+   },
+   "pred_raw": 469631,
+   "pred_hit": 0.9296405049922173
+  },
+  {
+   "session": "2e190c2a+086e2393+e8f13600",
+   "strat": "S2r",
+   "billed": {
+    "input": 0,
+    "cached": 0,
+    "output": 0
+   },
+   "pred_raw": 90149,
+   "pred_hit": 0.7686940509600773
+  },
+  {
+   "session": "2e190c2a+086e2393+e8f13600",
+   "strat": "S3",
+   "billed": {
+    "input": 0,
+    "cached": 0,
+    "output": 0
+   },
+   "pred_raw": 91926,
+   "pred_hit": 0.744033244131149
+  },
+  {
+   "session": "2e190c2a+086e2393+e8f13600",
+   "strat": "S4",
+   "billed": {
+    "input": 0,
+    "cached": 0,
+    "output": 0
+   },
+   "pred_raw": 260355,
+   "pred_hit": 0.927018878070327
+  }
+ ],
+ "spend_usd": 0.030030149999999995,
+ "calls": 1226,
+ "log": [
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S1",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S2r",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S3",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E2 S4",
+   "usd": 0.0,
+   "input": 0,
+   "output": 0,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E3 N=16",
+   "usd": 0.00020925,
+   "input": 3193,
+   "output": 124,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E3 N=32",
+   "usd": 0.00030085,
+   "input": 5193,
+   "output": 103,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E3 N=64",
+   "usd": 0.0004265,
+   "input": 8010,
+   "output": 65,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E3 N=128",
+   "usd": 0.0009335000000000001,
+   "input": 18118,
+   "output": 69,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E3 N=16",
+   "usd": 0.00010235,
+   "input": 1575,
+   "output": 59,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E3 N=32",
+   "usd": 0.0002575,
+   "input": 4678,
+   "output": 59,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E3 N=64",
+   "usd": 0.00045975000000000003,
+   "input": 8723,
+   "output": 59,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E3 N=128",
+   "usd": 0.0008879500000000001,
+   "input": 17287,
+   "output": 59,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E3 N=16",
+   "usd": 0.00010510000000000001,
+   "input": 1606,
+   "output": 62,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E3 N=32",
+   "usd": 0.00020050000000000002,
+   "input": 3522,
+   "output": 61,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E3 N=64",
+   "usd": 0.0005718,
+   "input": 10956,
+   "output": 60,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E3 N=128",
+   "usd": 0.0009142,
+   "input": 17804,
+   "output": 60,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E3 N=16",
+   "usd": 9.250000000000001e-05,
+   "input": 1562,
+   "output": 36,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E3 N=32",
+   "usd": 0.00018315,
+   "input": 3343,
+   "output": 40,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E3 N=64",
+   "usd": 0.0004281,
+   "input": 8106,
+   "output": 57,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E3 N=128",
+   "usd": 0.00077025,
+   "input": 15085,
+   "output": 40,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E3 N=16",
+   "usd": 0.00010740000000000001,
+   "input": 1764,
+   "output": 48,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E3 N=32",
+   "usd": 0.00017995,
+   "input": 3151,
+   "output": 56,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E3 N=64",
+   "usd": 0.00033360000000000003,
+   "input": 6320,
+   "output": 44,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E3 N=128",
+   "usd": 0.0007175500000000001,
+   "input": 13671,
+   "output": 85,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E3 N=16",
+   "usd": 0.00012755,
+   "input": 2119,
+   "output": 54,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E3 N=32",
+   "usd": 0.00021319999999999998,
+   "input": 3920,
+   "output": 43,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E3 N=64",
+   "usd": 0.00040785,
+   "input": 7829,
+   "output": 41,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E3 N=128",
+   "usd": 0.0008203500000000001,
+   "input": 16119,
+   "output": 36,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E3 N=16",
+   "usd": 0.00011555000000000002,
+   "input": 1927,
+   "output": 48,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E3 N=32",
+   "usd": 0.000178,
+   "input": 3200,
+   "output": 45,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E3 N=64",
+   "usd": 0.00035720000000000006,
+   "input": 6784,
+   "output": 45,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E3 N=128",
+   "usd": 0.0006814000000000001,
+   "input": 13268,
+   "output": 45,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E3 N=16",
+   "usd": 8.025e-05,
+   "input": 1293,
+   "output": 39,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E3 N=32",
+   "usd": 0.0002177,
+   "input": 4042,
+   "output": 39,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E3 N=64",
+   "usd": 0.00039715,
+   "input": 7575,
+   "output": 46,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E3 N=128",
+   "usd": 0.0007415000000000001,
+   "input": 14486,
+   "output": 43,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E3 N=16",
+   "usd": 0.00012045,
+   "input": 1809,
+   "output": 75,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E3 N=32",
+   "usd": 0.00020295000000000003,
+   "input": 3451,
+   "output": 76,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E3 N=64",
+   "usd": 0.0003662,
+   "input": 6716,
+   "output": 76,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E3 N=128",
+   "usd": 0.0006534500000000001,
+   "input": 12469,
+   "output": 75,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E3 N=16",
+   "usd": 0.00010675000000000002,
+   "input": 1751,
+   "output": 48,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E3 N=32",
+   "usd": 0.00019569999999999999,
+   "input": 3530,
+   "output": 48,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E3 N=64",
+   "usd": 0.00037525,
+   "input": 7105,
+   "output": 50,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E3 N=128",
+   "usd": 0.000775,
+   "input": 15124,
+   "output": 47,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E3 N=16",
+   "usd": 0.00018235,
+   "input": 3303,
+   "output": 43,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E3 N=32",
+   "usd": 0.0002496,
+   "input": 4648,
+   "output": 43,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E3 N=64",
+   "usd": 0.00049865,
+   "input": 9629,
+   "output": 43,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E3 N=128",
+   "usd": 0.0009589500000000001,
+   "input": 18835,
+   "output": 43,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E3 N=16",
+   "usd": 0.00010845000000000001,
+   "input": 1705,
+   "output": 58,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E3 N=32",
+   "usd": 0.00021905,
+   "input": 4101,
+   "output": 35,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E3 N=64",
+   "usd": 0.0005057000000000001,
+   "input": 9834,
+   "output": 35,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E3 N=128",
+   "usd": 0.0009304000000000001,
+   "input": 17936,
+   "output": 84,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E3 N=16",
+   "usd": 0.00012855,
+   "input": 2027,
+   "output": 68,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E3 N=32",
+   "usd": 0.0002594,
+   "input": 4644,
+   "output": 68,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E3 N=64",
+   "usd": 0.00045385,
+   "input": 8533,
+   "output": 68,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E3 N=128",
+   "usd": 0.0008091,
+   "input": 15670,
+   "output": 64,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E3 N=16",
+   "usd": 0.00010290000000000001,
+   "input": 1682,
+   "output": 47,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E3 N=32",
+   "usd": 0.0002088,
+   "input": 3784,
+   "output": 49,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E3 N=64",
+   "usd": 0.00034105,
+   "input": 6445,
+   "output": 47,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E3 N=128",
+   "usd": 0.00078125,
+   "input": 15265,
+   "output": 45,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E3 N=16",
+   "usd": 0.0002853,
+   "input": 2506,
+   "output": 400,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E3 N=32",
+   "usd": 0.00040415,
+   "input": 5035,
+   "output": 381,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E3 N=64",
+   "usd": 0.0005384000000000001,
+   "input": 10184,
+   "output": 73,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E3 N=128",
+   "usd": 0.00119165,
+   "input": 20633,
+   "output": 400,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E3 N=16",
+   "usd": 0.00011825,
+   "input": 1933,
+   "output": 54,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E3 N=32",
+   "usd": 0.0002209,
+   "input": 3986,
+   "output": 54,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E3 N=64",
+   "usd": 0.00035640000000000004,
+   "input": 6696,
+   "output": 54,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E3 N=128",
+   "usd": 0.0007962000000000001,
+   "input": 15492,
+   "output": 54,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E3 N=16",
+   "usd": 0.00010120000000000002,
+   "input": 1592,
+   "output": 54,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E3 N=32",
+   "usd": 0.00017230000000000001,
+   "input": 3022,
+   "output": 53,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E3 N=64",
+   "usd": 0.00040935,
+   "input": 7763,
+   "output": 53,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E3 N=128",
+   "usd": 0.0008036,
+   "input": 15520,
+   "output": 69,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E3 N=16",
+   "usd": 0.00015175,
+   "input": 1987,
+   "output": 131,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E3 N=32",
+   "usd": 0.00022040000000000002,
+   "input": 3256,
+   "output": 144,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E3 N=64",
+   "usd": 0.00047385,
+   "input": 8549,
+   "output": 116,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E3 N=128",
+   "usd": 0.0008765,
+   "input": 16834,
+   "output": 87,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E3 N=16",
+   "usd": 0.00012425,
+   "input": 1901,
+   "output": 73,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E3 N=32",
+   "usd": 0.00020735,
+   "input": 3715,
+   "output": 54,
+   "cached": 0,
+   "cache_write": 0
+  },
+  {
+   "tag": "E3 N=64",
+   "usd": 0.0005251,
+   "input": 7302,
+   "output": 400,
+   "cached": 0,
+   "cache_write": 0
+  }
+ ]
+}

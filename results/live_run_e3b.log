@@ -1,0 +1,5 @@
+catalog: 525 valid, dropped 0; rate limit {'x-ratelimit-limit-tokens': None, 'x-ratelimit-limit-requests': None}
+model=gpt-5-nano  E2: 40 sequences, 1151 calls, 17,385,999 tokens  E3: 372 calls, 4,936,742 tokens
+worst case (no cache hits at all): $1.205   hard cap: $1.5
+E3 resume: 302 done, 70 left
+spent $0.0340 over 70 calls
