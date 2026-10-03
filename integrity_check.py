@@ -158,6 +158,19 @@ if RV.exists():                                      # Stage-4 revision analyses
     add("coupled N100", f"moves from {c1['plain']:.2f}$\\times$ to {c1['coupled']:.2f}$\\times$")
     add("coupled N200", f"it moves from {c2['plain']:.2f}$\\times$ to {c2['coupled']:.2f}$\\times$")
 
+S_ALL = ("S1", "S1u", "S2", "S2r", "S2u", "S3", "S4", "S5")
+def best_worst(m, n, p="P1"):
+    c = G[f"{p}|{m}|{n}"]
+    w = max(S_ALL, key=lambda s: c[s]["ratio"]); b = min(S_ALL, key=lambda s: c[s]["ratio"])
+    return 1 - c[b]["ratio"] / c[w]["ratio"]
+spread = [best_worst(m, n) for m in (1, 3, 10) for n in (25, 50, 100, 200, 525)]
+add("worst-to-best", f"saves {100 * min(spread):.0f}--{100 * max(spread):.0f}\\% of billed cost")
+c1, c10 = G["P1|1|525"], G["P1|10|525"]
+add("single-task saving", f"{100 * (1 - c1['S2r']['ratio'] / c1['S1']['ratio']):.1f}\\% for a single task")
+add("ten-task saving", f"{100 * (1 - c10['S3']['ratio'] / c10['S1u']['ratio']):.1f}\\% in ten-task sessions")
+cc = G["P1|10|100"]
+add("S2u to S3", f"saves {100 * (1 - cc['S3']['ratio'] / cc['S2u']['ratio']):.0f}\\% in ten-task sessions")
+
 SO = json.load(open(ROOT / "results/sensitivity_output_price.json"))
 add("O sensitivity", f"{SO['O=0.0|m=10|N=100']['S2']:.2f}$\\times$ static caching at $O{{=}}0$ and "
                      f"{SO['O=8.0|m=10|N=100']['S2']:.2f}$\\times$ at $O{{=}}8$")
